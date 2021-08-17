@@ -1,5 +1,5 @@
 # ID-ME
-TreeHacks 2021 Submission by Evan Cheung () and Koray Mentesoglu
+TreeHacks 2021 Submission by Evan Cheung (@Big-Cheung) and Koray Mentesoglu
 
 Inspiration
 We wanted to reduce the amount of “detective” work doctors have to do before tending to patients who hospitals cannot determine their identity. Currently, medical bracelets or emergency bracelets are expensive and take a long time to produce, despite only containing a small amount of information. With QR codes, we would be able to produce them 100x faster, more than 40x cheaper, and print more information on the small amount of space contained by these bracelets.
