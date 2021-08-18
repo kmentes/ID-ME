@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30802.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDME_WebApp", "WebApplication1\IDME_WebApp.csproj", "{CFC29340-9C1B-45A7-8B6D-2D484B686CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC29340-9C1B-45A7-8B6D-2D484B686CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC29340-9C1B-45A7-8B6D-2D484B686CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC29340-9C1B-45A7-8B6D-2D484B686CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC29340-9C1B-45A7-8B6D-2D484B686CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A6F404-7A11-45A2-9B64-3BAE18CB14B1}
+	EndGlobalSection
+EndGlobal
